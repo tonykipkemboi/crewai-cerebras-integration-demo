@@ -1,4 +1,4 @@
-# CrewAI Cerebras Integration Demo
+# CrewAI x Cerebras Integration Demo
 
 This project demonstrates the integration of [CrewAI](https://github.com/crewai/crewai) with [Cerebras AI](https://www.cerebras.net/) models for advanced AI research tasks. 
 It showcases how to create an AI research crew using the CrewAI framework and leverage Cerebras' fast inference speed and large model sizes for intelligent agent interactions.
